@@ -17,4 +17,4 @@
     <img align="center" alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Atualmente, trabalho com desenvolvimento de relatótios utilizando banco de dados oracle. Tenho um grande interesse em me tornar um desenvolvedor Back-and!
+Atualmente, Trabaho com banco de dados Oracle, onde estou constantemente aprendendo e aprimorando minhas habilidades!
